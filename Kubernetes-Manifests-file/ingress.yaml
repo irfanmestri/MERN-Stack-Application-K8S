@@ -11,7 +11,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: cloudy.kesug.com
+    - host: cloudydev.us.to
       http:
         paths:
           - path: /api
